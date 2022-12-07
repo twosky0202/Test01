@@ -2,8 +2,11 @@ a1
 a2
 a3
 a4
+<<<<<<< HEAD
 a5
 a6
 a7
 a8
 
+=======
+>>>>>>> parent of fb7f0c6... a.txt: a5~a8 added
